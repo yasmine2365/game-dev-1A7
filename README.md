@@ -1,6 +1,7 @@
 🎮 SDL 2D Game Project
 Overview
-This project is a 2D platformer built using SDL (Simple DirectMedia Layer). The game features:
+This project is a 2D platformer built using SDL (Simple DirectMedia Layer). 
+The game features:
 
 A main character (player) with animated movements
 
@@ -16,7 +17,8 @@ A start menu and scoreboard system
 
 Time tracking and player name input at game start
 
-🕹️ Features
+🕹️ Features:
+
 👤 Player System
 Handles player animation, jumping, movement, and collision.
 
